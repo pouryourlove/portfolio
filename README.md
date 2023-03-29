@@ -4,7 +4,7 @@
 </br>
 
 ## :pushpin: Intro
-(여기에 자기 소개)
+미국에서 생활하던 중에 참가한 밋업에서 개발자로 일하는 분의 이야기를 듣고 개발자에 대해 처음 관심을 가지게 되었습니다. 꾸준히 학습하고 성장하는 것을 좋아하는 개발자 지망생입니다. 
 
 </br>
 
@@ -21,7 +21,7 @@
 >개발 기간: 2022/6/24 ~ 2022/6/29 수정: 2023/1/28 
 >  
 >기술 스택:  
->HTML, Tailwind CSS, React.js, Git 
+>HTML, Tailwind CSS, React.js 17, Git 
 >  
 >[프로젝트 상세 설명](https://github.com/pouryourlove/travel-react-tailwind) 참고
 

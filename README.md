@@ -1,10 +1,4 @@
 # 이주연 포트폴리오
->Passionate about building meaningful software.
-
-</br>
-
-## :pushpin: Intro
-의미있는 서비스 구현에 기여하고 싶은 개발자 지망생입니다. 유데미 강의를 들으면서 혼자 독학으로 프론트엔드를 공부하였습니다. 꾸준히 학습하고, 기록을 남기는 것을 좋아합니다.
 
 </br>
 
@@ -16,14 +10,14 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [EuroVoyage Tours](https://github.com/pouryourlove/travel-react-tailwind)
->유럽 여행을 예약할 수 있는 사이트 (개인 프로젝트)  
->개발 기간: 2022/6/24 ~ 2022/6/29 수정: 2023/1/28 
+### 1. [FitLifeHub](https://github.com/pouryourlove/FitLifeHub)
+>FitLifeHub은 운동에 관심 있는 사용자들이 운동 자세, 근육 자극 지점, 그리고 필요한 장비에 대해 자세히 이해할 수 있도록 도와주는 웹페이지입니다. (개인 프로젝트)
+>개발 기간: 2023년 9월 8일 ~ 2023년 9월 12일
 >  
->기술 스택:  
->HTML, Tailwind CSS, React.js 17, Git 
+>사용 스택:  
+>React.js, React Router, Material-UI,react-horizontal-scrolling-menu,react-loader-spinner, Git 
 >  
->[프로젝트 상세 설명](https://github.com/pouryourlove/travel-react-tailwind) 참고
+>[프로젝트 상세 설명](https://github.com/pouryourlove/FitLifeHub) 참고
 
 ---
 
@@ -38,11 +32,4 @@
 
 ---
 
-### 3. [댕댕 백서](https://github.com/haedal-uni/Team14)
-> 애완동물 산책 정보 플랫폼 (팀 프로젝트)  
->개발 기간: 2021/10/5 ~ 2021/10/19 
->  
->기술 스택:  
->   
->  
->[프로젝트 상세 설명](https://github.com/haedal-uni/Team14) 참고
+

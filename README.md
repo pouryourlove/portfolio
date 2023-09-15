@@ -29,7 +29,7 @@
 >기술 스택:  
 > HTML, CSS, Javascript, Git  
 >  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
+>[프로젝트 상세 설명](https://github.com/pouryourlove/higherself-project) 참고
 
 ---
 

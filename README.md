@@ -4,7 +4,8 @@
 
 ## :pushpin: Contact
 - 이메일: juyeon.lee.dev@gmail.com
-- 블로그: https://velog.io/@pouryourlove
+- 블로그(Korean): https://velog.io/@pouryourlove
+- 블로그(English): https://medium.com/@paintedveil13
 - 깃헙: https://github.com/pouryourlove
 
 </br>
